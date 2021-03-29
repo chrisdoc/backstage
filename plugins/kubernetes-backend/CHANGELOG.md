@@ -1,5 +1,13 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.3.3
+
+### Patch Changes
+
+- 60e463c8d: Load credentials properly for AWS Kubernetes Auth Translator
+- Updated dependencies [37e3a69f5]
+  - @backstage/backend-common@0.6.1
+
 ## 0.3.2
 
 ### Patch Changes

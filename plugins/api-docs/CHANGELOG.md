@@ -1,5 +1,11 @@
 # @backstage/plugin-api-docs
 
+## 0.4.10
+
+### Patch Changes
+
+- ee5529268: Include the GraphiQL stylesheet
+
 ## 0.4.9
 
 ### Patch Changes
